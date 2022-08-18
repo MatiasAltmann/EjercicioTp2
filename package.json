@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "ejerciciotp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasAltmann/EjercicioTp2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasAltmann/EjercicioTp2/issues"
+  },
+  "homepage": "https://github.com/MatiasAltmann/EjercicioTp2#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
